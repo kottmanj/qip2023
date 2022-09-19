@@ -7,5 +7,6 @@
 - [github.com/tequilahub/tequila](https://github.com/tequilahub/tequila)
 
 ## More on Applications
-- [slides](https://github.com/kottmanj/talks_and_material/tree/main/barcelona2022) for a talk on molecular quantum circuit design with code examples
+- [slides](https://github.com/kottmanj/talks_and_material/tree/main/barcelona2022) on molecular quantum circuit design with code examples
+- [slides](https://github.com/kottmanj/talks_and_material/tree/main/qai2022) on general tequila usage with code examples
 - [tutorials](https://github.com/tequilahub/tequila-tutorials/tree/main/chemistry) for chemistry applications with tequila

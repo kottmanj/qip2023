@@ -3,6 +3,7 @@ Additional information and hyperlinks for the STC2022 poster: Automatically Diff
 
 - [example1.py](example1.py): Small H2 example
 - [example2.py](example2.py): Small example on basis-set-free initialization and SPA circuit construction (see links below for more)
+- [example3.py](example3.py): UpCCD with BeH2/STO-3G
 
 ## More on Tequila
 - tequila in a [nutshell](https://kottmanj.github.io/tequila-in-a-nutshell/#/)

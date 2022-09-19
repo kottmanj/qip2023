@@ -1,6 +1,9 @@
 # STC 2022: Auto-Diff UCC
 Additional information and hyperlinks for the STC2022 poster: Automatically Differentiable Unitary Coupled-Cluster
 
+- [example1.py](example1.py): Small H2 example
+- [example2.py](example2.py): Small example on basis-set-free initialization and SPA circuit construction (see links below for more)
+
 ## More on Tequila
 - tequila in a [nutshell](https://kottmanj.github.io/tequila-in-a-nutshell/#/)
 - [arxiv:2011.03057](https://arxiv.org/abs/2011.03057) original paper describing the tequila framework

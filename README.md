@@ -1,4 +1,5 @@
 # STC 2022: Auto-Diff UCC
+Additional information and hyperlinks for the STC2022 poster: Automatically Differentiable Unitary Coupled-Cluster
 
 ## More on Tequila
 - tequila in a [nutshell](https://kottmanj.github.io/tequila-in-a-nutshell/#/)

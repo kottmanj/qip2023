@@ -1,17 +1,15 @@
-# STC 2022: Auto-Diff UCC
-Additional information and hyperlinks for the STC2022 [poster](STC2022.pdf): Automatically Differentiable Unitary Coupled-Cluster
+# QIP 2023: Molecular Quantum Circuit Design
+Additional information and hyperlinks for the QIP2023 [poster](qip2023.pdf):
 
-- [example1.py](example1.py): Small H2 example
-- [example2.py](example2.py): Small example on basis-set-free initialization and SPA circuit construction (see links below for more)
-- [example3.py](example3.py): UpCCD with BeH2/STO-3G
+- [example1.py](example1.py): H2 example (a single edge)
+- [example2.py](example2.py): H4 example (two edges, VQE Style)
+- [example3.py](example3.py): H4 example (two edges, Krylov-style
 
-## More on Tequila
-- tequila in a [nutshell](https://kottmanj.github.io/tequila-in-a-nutshell/#/)
-- [arxiv:2011.03057](https://arxiv.org/abs/2011.03057) original paper describing the tequila framework
-- [arxiv:2011.05938](https://arxiv.org/abs/2011.05938) paper on automatically differentiable unitary coupled-cluster
-- [github.com/tequilahub/tequila](https://github.com/tequilahub/tequila)
+## Papers
+- [https://arxiv.org/abs/2207.12421](arxiv:2207:12421)
+- arxiv:2023.XXXX Krylov-style wavefunctions (coming Feb. 2023)
 
-## More on Applications
-- [slides](https://github.com/kottmanj/talks_and_material/tree/main/barcelona2022) on molecular quantum circuit design with code examples
+## More
+- [H4 example] as jupyter notebook, following paper 1
+- [slides](https://github.com/kottmanj/talks_and_material/tree/main/barcelona2022) slides on molecular quantum circuit design with code examples
 - [slides](https://github.com/kottmanj/talks_and_material/tree/main/qai2022) on general tequila usage with code examples
-- [tutorials](https://github.com/tequilahub/tequila-tutorials/tree/main/chemistry) for chemistry applications with tequila

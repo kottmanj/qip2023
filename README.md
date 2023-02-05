@@ -1,5 +1,5 @@
 # QIP 2023: Molecular Quantum Circuit Design
-Additional information and hyperlinks for the QIP2023 [poster](qip2023.pdf):
+Additional information and hyperlinks for the QIP2023 [poster](qip2023.pdf) and [abstract](abstract.pdf):
 
 - [example1.py](example1.py): H2 example (a single edge)
 - [example2.py](example2.py): H4 example (two edges, VQE Style)
